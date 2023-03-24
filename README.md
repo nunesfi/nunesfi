@@ -1,20 +1,27 @@
 ### Olá, sou Filipi Nunes
 
 
-- 🔭 Atualmente trabalho em projeto de visão computacional ...
-- 🌱 Estudando constantemente Linux, Python, GIT, SQL
+- 🔭 Atualmente trabalho em projeto de visão computacional: Detecção e classificação de objetos para reconhecimento de imagem através do **IBM Maximo Visual Inspection**, transcrição de áudio para texto e tratamento de áudio utilizando **Python, Google Storage e distribuição Linux**.
+
+- 🌱 Adquirindo conhecimento constantemente em:
+     - IA, BigData 
+     - Python, Django, Docker, GIT, SQL
 
 <div align="center">
   <a href="https://github.com/nunesfi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nunesfi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunesfi&layout=compact&langs_count=7&theme=dark"/>
 </div>
   </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Nunesfi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Nunesfi-Ubuntu" height="30" width="75" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
-  <img align="center" alt="Nunesfi-MySql" height="30" width="75" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img align="center" alt="Nunesfi-SQL" height="30" width="150" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white">
+  <img align="center" alt="Nunesfi-Django" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg">
+  <img align="center" alt="Nunesfi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" >
+  <img align="center" alt="Nunesfi-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" >
+  <img align="center" alt="Nunesfi-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" >
+  <img align="center" alt="Nunesfi-GitLab" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" >
+  <img align="center" alt="Nunesfi-Ubuntu" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+  <img align="center" alt="Nunesfi-MySql" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Nunesfi-SQL" height="30" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
 </div>
 
 ##
