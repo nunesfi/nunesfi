@@ -1,11 +1,7 @@
 ### Olá, sou Filipi Nunes
 
 
-- 🔭 Atualmente trabalho em projeto de visão computacional: Detecção e classificação de objetos para reconhecimento de imagem através do **IBM Maximo Visual Inspection**, transcrição de áudio para texto e tratamento de áudio utilizando **Python, Google Storage e distribuição Linux**.
-
-- 🌱 Adquirindo conhecimento constantemente em:
-     - IA, BigData 
-     - Python, Django, Docker, GIT, SQL
+- 🔭 **Machine Learning Engenieer** with expertise in building and training artificial intelligence models, specializing in the complete development of computer vision solutions. Proficient in Python with pratical experience in implementing ML models from conception to final training.
 
 
 </div>
